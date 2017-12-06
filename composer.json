@@ -1,0 +1,16 @@
+{
+    "name": "xiaoroll/test",
+    "description": "test composer",
+    "type": "project",
+    "require": {
+        "houdunwang/wechat": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoroll",
+            "email": "trollman@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
