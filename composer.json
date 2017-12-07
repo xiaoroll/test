@@ -3,7 +3,7 @@
     "description": "test composer",
     "type": "project",
     "require": {
-        "houdunwang/wechat": "*"
+        "houdunwang/arr": "*"
     },
     "license": "MIT",
     "authors": [
